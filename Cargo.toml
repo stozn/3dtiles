@@ -13,7 +13,7 @@ rayon = "1.0"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 serde-xml-rs = "^0.2.1"
-xml-rs = "0.3.6"
+xml-rs = { version = "0.8.15-cvss-cries-wolf" }
 
 # log
 log = "0.4"
